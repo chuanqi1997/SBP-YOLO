@@ -53,6 +53,13 @@ We release several pre-trained weights for SBP-YOLO and baseline models:
 
 ---
 
+## 📖 References
+
+- [tensorRT_Pro-YOLOv8 (GitHub)](https://github.com/Melody-Zhou/tensorRT_Pro-YOLOv8)
+- [GSConv and VoVGSCSPC (GitHub)](https://github.com/alanli1997/slim-neck-by-gsconv)
+
+---
+
 # Citation
 
 If you find this project helpful in your research, please cite the papers below.
