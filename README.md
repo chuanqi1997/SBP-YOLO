@@ -28,7 +28,6 @@ We provide the dataset used for training and evaluation:
 
 ---
 
-
 ## 🏋️ Pre-trained Weights
 
 We release several pre-trained weights for SBP-YOLO and baseline models:
@@ -61,7 +60,7 @@ If you find this project helpful in your research, please cite the papers below.
 ```bibtex
 @article{liang2025sbp,
   title={SBP-YOLO: A Lightweight Real-Time Model for Detecting Speed Bumps and Potholes},
-  author={Liang, Chuanqi and Fu, Jie and Luo, Lei and Yu, Miao},
+  author={Chuanqi, Liang and Jie, Fu and Miao, Yu and Lei, Luo},
   journal={arXiv preprint arXiv:2508.01339},
   year={2025}
 }
