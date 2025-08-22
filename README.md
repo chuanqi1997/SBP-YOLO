@@ -27,6 +27,8 @@ We provide the dataset used for training and evaluation:
 - **Google Drive:** [Download Link](https://drive.google.com/drive/folders/1hOfFMHhm518qLZIGEOl7YZ_WyRYA79N1?usp=drive_link)
 
 ---
+
+
 ## 🏋️ Pre-trained Weights
 
 We release several pre-trained weights for SBP-YOLO and baseline models:
@@ -40,11 +42,10 @@ We release several pre-trained weights for SBP-YOLO and baseline models:
 | YOLOv11 + P2                 | `yolo11-p2.pt`             |
 | YOLOv11 baseline             | `yolo11.pt`                |
 
-👉 You can download the pre-trained weights from the [`pre_trained_weights/`](./ultralytics-yolo11-main/pre_trained_weights) folder.
+📥 You can download all the pre-trained weights from Google Drive:
+[Pre-trained Weights Download Link](https://drive.google.com/drive/folders/1Z8WspHFXUirS-V3UZ-aibALTGr-3YfhE?usp=drive_link)
 
 ---
-
-
 
 ## 📜 Update logs
 
@@ -64,6 +65,5 @@ If you find this project helpful in your research, please cite the papers below.
   journal={arXiv preprint arXiv:2508.01339},
   year={2025}
 }
-
 ```
 

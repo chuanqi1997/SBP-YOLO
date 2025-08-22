@@ -60,4 +60,4 @@ head:
   - [[-1, 10], 1, Concat, [1]] # cat head P5
   - [-1, 2, VoVGSCSPC, [1024]] # 
 
-  - [[19, 22, 25, 28], 1, Detect_Efficient, [nc]] # Detect(P3, P4, P5)
+  - [[19, 22, 25, 28], 1, Detect_Efficient, [nc]] # LEDH (P2, P3, P4, P5)
