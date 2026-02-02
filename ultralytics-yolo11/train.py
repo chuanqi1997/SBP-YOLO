@@ -1,10 +1,11 @@
-import warnings
+import warnings, os
 warnings.filterwarnings('ignore')
 from ultralytics import YOLO
 import torch
 import sys
 import argparse
 import os
+
 
 yaml_path = r'models/SBP-YOLO.yaml'
 data_path = r'datasets/yolo_0422-ALL_7K5_7_1_1.yaml'
@@ -22,7 +23,7 @@ def main(opt):
                 batch=16,  # 训练批次，默认16 32 64
                 project='zzz',
                 name='exp',  # 用于保存训练文件夹名，默认exp，依次累加
-                device='0',  # 要运行的设备 device =0 是GPU显卡训练，device = cpu
+                #device='0',  # 要运行的设备 device =0 是GPU显卡训练，device = cpu
                 patience=30,
                 seed=0,
                 lr0=0.001,

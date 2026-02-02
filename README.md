@@ -47,9 +47,9 @@ We release several pre-trained weights for SBP-YOLO and baseline models:
 ---
 
 ## 📜 Update logs
-
-* 19/April/2025  - We have revised and updated version 2 of the paper.
-* 2/Aug/2025     - We submitted the original manuscript of the paper.
+* 18/January/2026 - This article was published in the JRTIP.
+* 19/April/2025   - We have revised and updated version 2 of the paper.
+* 2/Aug/2025      - We submitted the original manuscript of the paper.
 
 ---
 
@@ -65,11 +65,15 @@ We release several pre-trained weights for SBP-YOLO and baseline models:
 If you find this project helpful in your research, please cite the papers below.
 
 ```bibtex
-@article{liang2025sbp,
-  title={SBP-YOLO: A Lightweight Real-Time Model for Detecting Speed Bumps and Potholes},
-  author={Chuanqi, Liang and Jie, Fu and Miao, Yu and Lei, Luo},
-  journal={arXiv preprint arXiv:2508.01339},
-  year={2025}
+@article{liang2026sbp,
+  title={SBP-YOLO: a lightweight real-time model for detecting speed bumps and potholes toward intelligent vehicle suspension systems},
+  author={Liang, Chuanqi and Yuan, Jie and Gou, Linlin and Luo, Lei and Fu, Jie and Yu, Miao},
+  journal={Journal of Real-Time Image Processing},
+  volume={23},
+  number={1},
+  pages={52},
+  year={2026},
+  publisher={Springer}
 }
 ```
 
